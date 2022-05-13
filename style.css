@@ -19,7 +19,7 @@ h1 {
     position: relative;
     font-size: 9vw;
     color: #FAE033;
-    -webkit-text-stroke: 0.1vw #ffffff;
+    -webkit-text-stroke: 0.2vw #ffffff;
     text-transform: uppercase;
 }
 
